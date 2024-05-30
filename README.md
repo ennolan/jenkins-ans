@@ -60,7 +60,7 @@ For detailed instructions on configuring MongoDB using Ansible, please refer to 
 
 ## Feedback
 
-We welcome your feedback and suggestions! If you encounter any issues or have ideas for improvements, please [open an issue](link-to-issue-tracker).
+We welcome your feedback and suggestions! If you encounter any issues or have ideas for improvements, please [open an issue](https://github.com/ennolan/jenkins-ans/issues).
 
 ## Contributing
 
