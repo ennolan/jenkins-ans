@@ -1,4 +1,4 @@
-# Ansible playbooks for configuring Nginx server and deploying MongoDB.
+# Ansible playbooks for configuring Nginx server and deploying MongoDB
 
 ## Overview
 
