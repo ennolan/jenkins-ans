@@ -14,7 +14,6 @@ This repository contains Ansible playbooks for configuring Nginx and MongoDB, al
 - [Nginx Configuration](#nginx-configuration)
 - [MongoDB Configuration](#mongodb-configuration)
 - [Feedback](#feedback)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Jenkins Pipeline
@@ -62,10 +61,6 @@ For detailed instructions on configuring MongoDB using Ansible, please refer to 
 
 We welcome your feedback and suggestions! If you encounter any issues or have ideas for improvements, please [open an issue](https://github.com/ennolan/jenkins-ans/issues).
 
-## Contributing
-
-Contributions are always appreciated! If you'd like to contribute to this project, please follow our [contribution guidelines](link-to-contribution-guidelines).
-
 ## License
 
-This project is licensed under the [MIT License](link-to-license-file).
+This project is licensed under the [MIT License](https://github.com/ennolan/jenkins-ans/blob/main/LICENSE).
