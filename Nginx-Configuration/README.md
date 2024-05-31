@@ -34,19 +34,16 @@ The `nginx.yml` playbook applies two roles, `nginx` and `nginx_static_website`, 
 
 ## Getting Started
 
-Before going for the steps, if you want to implement it step by step then refer the blog where everything is present without any confusion.
--  [Nginx Configuration Blog](https://medium.com/@aman.pathak_51134/automating-infrastructure-ansible-playbooks-for-nginx-and-mongodb-configuration-7351c1f28580)
-
 Follow these steps to configure Nginx on your target hosts:
 
 1. Clone this repository to your Ansible master server:
 
-git clone https://github.com/AmanPathak-DevOps/CICD-Ansible.git
+git clone https://github.com/ennolan/jenkins-ans.git
 
 
 2. Navigate to the `Nginx-Configuration` directory:
 
-cd CICD-Ansible/Nginx-Configuration
+cd jenkins-ans/Nginx-Configuration
 
 
 3. Open the `hosts` file and replace the IP addresses with the IP addresses of your target hosts:
@@ -65,7 +62,7 @@ ansible-playbook <playbook.yml>
 
 ## Feedback
 
-We value your feedback! If you encounter any issues or have suggestions for improvements, feel free to open an issue in this repository.
+We value your feedback! If you encounter any issues or have suggestions for improvement, feel free to open an issue in this repository.
 
 ## Jenkinsfile Explanation
 
