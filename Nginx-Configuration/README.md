@@ -62,7 +62,7 @@ ansible-playbook <playbook.yml>
 
 ## Feedback
 
-We value your feedback! If you encounter any issues or have suggestions for improvements, feel free to open an issue in this repository.
+We value your feedback! If you encounter any issues or have suggestions for improvement, feel free to open an issue in this repository.
 
 ## Jenkinsfile Explanation
 
